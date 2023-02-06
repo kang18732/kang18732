@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MINSUK%20KANG&fontSize=90)
 
-# Profile
-
-### B.S. in Computer Science, Hanyang University
-
-<br/>
-
 # <center>Language Skills</center>
 
 ## Proficient
