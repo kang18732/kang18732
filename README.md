@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MINSUK%20KANG&fontSize=90)
-
 # <div align="center">Language Skills</div>
 
 ### <div align="center">Proficient</div>
